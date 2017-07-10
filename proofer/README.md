@@ -1,7 +1,7 @@
 Wrapper for text proofreading API.
 Note: Spanish only
 
-Link to docs is <a href="www.meaningcloud.com/developer/text-proofreading">here</a>
+Link to docs is <a href="https://www.meaningcloud.com/developer/text-proofreading">here</a>
 
 Example usage:
 
