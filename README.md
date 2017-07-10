@@ -1,8 +1,8 @@
 Meaningcloud API wrapper in Golang.
 
-Link to <a href="www.meaningcloud.com">Meaningcloud.com</a>
+Link to <a href="https://www.meaningcloud.com">Meaningcloud.com</a>
 
-Link to API documentation <a href="www.meaningcloud.com/developer/documentation">here.</a>
+Link to API documentation <a href="https://www.meaningcloud.com/developer/documentation">here.</a>
 
 Covered API's:
 
