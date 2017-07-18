@@ -1,4 +1,4 @@
-Meaningcloud API wrapper in Golang.
+Meaningcloud API client written in Golang.
 
 Link to <a href="https://www.meaningcloud.com">Meaningcloud.com</a>
 
@@ -16,5 +16,3 @@ Covered API's:
 8. Text Clustering (TODO)
 
 Will continue to write wrappers for full set of API's provided by Meaningcloud in my free time.
-
-"Better not very nice code than no code."
