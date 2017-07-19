@@ -4,6 +4,9 @@ Link to <a href="https://www.meaningcloud.com">Meaningcloud.com</a>
 
 Link to API documentation <a href="https://www.meaningcloud.com/developer/documentation">here.</a>
 
+Install:
+go get github.com/bas24/meaningcloud-api
+
 Covered API's:
 
 1. Proofreading API (not listed on site. You need to contact support to enable this API for your KEY.)
